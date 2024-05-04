@@ -17,7 +17,7 @@ dynamic _imageFetchingException;
 class OpenAIConfig {
   static const String apiUrl = 'https://api.openai.com/v1/chat/completions';
   static const String apiKey =
-      ''; // actual API key
+      ''; // actual API key is removed 
 }
 
 String generateSharedUUID() {
