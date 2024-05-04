@@ -15,7 +15,7 @@ class OpenAIConfig {
   static const String apiUrl =
       "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"; // Updated API endpoint
   static const String apiKey =
-      "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"; // Replace with your actual API key
+      ""; // Replace with your actual API key
 }
 
 Future<void> saveImageToFirebaseStorage(
