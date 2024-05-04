@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "277899685082",
+    "project_id": "nutrimeal-fyp",
+    "storage_bucket": "nutrimeal-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277899685082:android:80fa69f7f3e7a622c3c9e3",
+        "android_client_info": {
+          "package_name": "com.example.nutrimeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277899685082-nn3e4mfo8h6gfndu9ji2h78s32miic7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiHhWj_HoHQ_SFg3RXym8__QgpOAPfqNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277899685082-del1e1ho75p9g383kh454a1rm06psuni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277899685082-mrlmkv06drq5op2hu6abcvrj6v8uvsah.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nutrimeal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
