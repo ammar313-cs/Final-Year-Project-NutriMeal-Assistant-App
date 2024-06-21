@@ -47,28 +47,14 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAlIqxqscXQSW1CqIbSmC7aSylZbVy1NiQ',
-    appId: '1:277899685082:web:80108f432458ff11c3c9e3',
-    messagingSenderId: '277899685082',
-    projectId: 'nutrimeal-fyp',
-    authDomain: 'nutrimeal-fyp.firebaseapp.com',
-    storageBucket: 'nutrimeal-fyp.appspot.com',
+   
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBiHhWj_HoHQ_SFg3RXym8__QgpOAPfqNg',
-    appId: '1:277899685082:android:80fa69f7f3e7a622c3c9e3',
-    messagingSenderId: '277899685082',
-    projectId: 'nutrimeal-fyp',
-    storageBucket: 'nutrimeal-fyp.appspot.com',
+   
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBdzflUR6x-9LvwJh73vC8-wsK9Gup2d3A',
-    appId: '1:277899685082:ios:057ad0c69d050393c3c9e3',
-    messagingSenderId: '277899685082',
-    projectId: 'nutrimeal-fyp',
-    storageBucket: 'nutrimeal-fyp.appspot.com',
-    iosBundleId: 'com.example.nutrimeal',
+   
   );
 }
