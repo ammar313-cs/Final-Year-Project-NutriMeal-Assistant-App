@@ -4,8 +4,8 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class ApiHelper {
-  final apiUrl_clean = 'https://1579-34-75-211-27.ngrok-free.app/clean_strings';
-  final apiUrl_classify = 'https://1579-34-75-211-27.ngrok-free.app/classify';
+  final apiUrl_clean = '';
+  final apiUrl_classify = '';
 
   List<String> convertMapToList(Map<String, dynamic> inputMap) {
     return inputMap.values.map((dynamic value) => value.toString()).toList();
